@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-betcloset-dev-181315-authRole",
+      "UnauthRoleArn": "arn:aws:iam::538765035567:role/amplify-betcloset-dev-181315-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::538765035567:role/amplify-betcloset-dev-181315-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-betcloset-dev-181315-deployment",
+      "UnauthRoleName": "amplify-betcloset-dev-181315-unauthRole",
+      "StackName": "amplify-betcloset-dev-181315",
+      "StackId": "arn:aws:cloudformation:us-east-2:538765035567:stack/amplify-betcloset-dev-181315/f2113910-3ac7-11eb-80b7-0656208217bc",
+      "AmplifyAppId": "d3cso00z7hqt9l"
+    },
+    "categories": {
+      "auth": {
+        "betcloset4b752a73": {
+          "userPoolId": "us-east-2_ODX0gWpK3",
+          "userPoolName": "betweenclosetapp8de15b85_userpool_8de15b85-dev",
+          "webClientId": "7dnuv3biadjlmffj73oskmcdg5",
+          "nativeClientId": "7lqjhs3t1ljt7j1nkth4b2nq8c",
+          "identityPoolId": "us-east-2:f71470a2-0291-475a-8c0e-f148a2ab88a9",
+          "identityPoolName": "betweenclosetapp8de15b85_identitypool_8de15b85__dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::538765035567:role/amplify-betweenclosetapp-dev-105050-authRole",
+          "authRoleName": "amplify-betweenclosetapp-dev-105050-authRole",
+          "unauthRoleArn": "arn:aws:iam::538765035567:role/amplify-betweenclosetapp-dev-105050-unauthRole",
+          "unauthRoleName": "amplify-betweenclosetapp-dev-105050-unauthRole"
+        }
+      }
+    }
+  }
+}
